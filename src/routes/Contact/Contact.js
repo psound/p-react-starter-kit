@@ -10,7 +10,7 @@ class Contact extends React.Component {
     }
 
     componentDidMount() {
-        console.log('Contact View Props', this.props);
+        //console.log('Contact View Props', this.props);
 
     }
 
